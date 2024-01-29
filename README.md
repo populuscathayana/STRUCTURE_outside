@@ -2,7 +2,7 @@
  * @Author: cathayana populuscathayana@gmail.com
  * @Date: 2024-01-17 14:37:39
  * @LastEditors: cathayana populuscathayana@gmail.com
- * @LastEditTime: 2024-01-29 14:07:48
+ * @LastEditTime: 2024-01-29 14:09:52
  * @FilePath: /website_structure/STRUCTURE_outside/README.md
  * @Description: 
  * 
@@ -18,7 +18,7 @@ By Cathayana
 
 建议直接下载zip压缩包解压后运行。
 
-如何运行此项目(校网环境)：
+如何运行此项目：
 
 python==3.9
 ```bash
