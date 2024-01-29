@@ -2,7 +2,7 @@
  * @Author: cathayana populuscathayana@gmail.com
  * @Date: 2024-01-17 14:37:39
  * @LastEditors: cathayana populuscathayana@gmail.com
- * @LastEditTime: 2024-01-29 14:09:52
+ * @LastEditTime: 2024-01-29 14:11:06
  * @FilePath: /website_structure/STRUCTURE_outside/README.md
  * @Description: 
  * 
@@ -10,7 +10,7 @@
 -->
 By Cathayana
 
-[本站地址](https://github.com/populuscathayana/STR)
+[本站地址](https://github.com/populuscathayana/STRUCTURE_outside)
 
 [在线网页地址](http://118.31.6.200:8502/)
 
