@@ -2,8 +2,8 @@
 Author: cathayana populuscathayana@gmail.com
 Date: 2024-01-17 14:37:39
 LastEditors: cathayana populuscathayana@gmail.com
-LastEditTime: 2024-01-29 13:11:38
-FilePath: /website_structure/STR/app.py
+LastEditTime: 2024-01-29 14:08:00
+FilePath: /website_structure/STRUCTURE_outside/app.py
 Description:
 
 Copyright (c) 2024 by Cathayana, All Rights Reserved.
@@ -163,7 +163,7 @@ elif page_group == '网站说明':
             ''')
     st.table({'章节': ['网站构建整合','第一章：量子力学基础和原子结构', '第二章：化学键理论', '第三章：群论和对称性' ,'第四章：多原子分子的量子化学', '第五章：配位化合物和超分子', '第六章：固体化学','组件测试'],
             '负责小组': ['Cathayana','GROUP2', 'GROUP6', 'GROUP4', 'GROUP1', 'GROUP3', 'GROUP5','Cathayana']})
-    st.write('本站所有代码开源，点击边栏处的“显示代码”即可查看。项目源码见：https://github.com/populuscathayana/STR')
+    st.write('本站所有代码开源，点击边栏处的“显示代码”即可查看。项目源码见：https://github.com/populuscathayana/STRUCTURE_outside.git')
     st.write('''如果网站出现任何问题，欢迎联系Cathayana \\
         邮箱：populuscathayana@gmail.com \\
         QQ: 1278889459\\

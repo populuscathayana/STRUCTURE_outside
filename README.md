@@ -2,8 +2,8 @@
  * @Author: cathayana populuscathayana@gmail.com
  * @Date: 2024-01-17 14:37:39
  * @LastEditors: cathayana populuscathayana@gmail.com
- * @LastEditTime: 2024-01-29 13:20:15
- * @FilePath: /website_structure/STR/README.md
+ * @LastEditTime: 2024-01-29 14:07:48
+ * @FilePath: /website_structure/STRUCTURE_outside/README.md
  * @Description: 
  * 
  * Copyright (c) 2024 by Cathayana, All Rights Reserved. 
@@ -22,7 +22,7 @@ By Cathayana
 
 python==3.9
 ```bash
-git clone https://github.com/populuscathayana/STR.git
+git clone https://github.com/populuscathayana/STRUCTURE_outside.git
 cd STR
 conda create -n STR python==3.9
 conda activate STR
