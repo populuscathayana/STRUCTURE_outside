@@ -1,0 +1,11 @@
+streamlit
+matplotlib
+scipy
+IPython
+scikit_image
+plotly
+rdkit
+streamlit_ketcher
+sympy
+seaborn
+bokeh==2.4.3
